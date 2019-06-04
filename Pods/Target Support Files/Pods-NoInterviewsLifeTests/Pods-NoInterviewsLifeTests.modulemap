@@ -1,0 +1,6 @@
+framework module Pods_NoInterviewsLifeTests {
+  umbrella header "Pods-NoInterviewsLifeTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
